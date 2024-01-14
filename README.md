@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+
+I am Oben, a MSc student at Aalto University in Machine Learning, Data Science and Artificial Intelligence.
+
+I have interned as a software engineer at various companies since 2021 in different industries. Moreover, I had some research experience in the intersection of AI and neuroscience.
+
+I mostly have experience with Python, PyTorch, scikit-learn, Unity, C# with some background in C++ through university projects.
+
+My desire is to contribute to the solution of challenging softwares and data problems by compelling practices of science and engineering.
 
 <!--
 **obenozgur/obenozgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
